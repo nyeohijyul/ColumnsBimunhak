@@ -10,7 +10,7 @@ var g
 // var q10032 = `<a href="">해당모의고사바로가기</a><br><img src="img/g/.png"><br>`
 // <img src="img/g/.png"><br>
 
-var q10004 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230906/go1/kor_mun_95E6MNHQ.pdf">해당모의고사바로가기</a><br>
+var q10004 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230906/go1/kor_mun_95E6MNHQ.pdf">해당모의고사다운로드</a><br>
 ‘세계’는 그것을 대면한 각 인식 주체들에 의해 다양하게
 드러난다. 가장 일차적이고 일반적인 세계는 우리가 경험하
 는 현실 세계이며, 인식 주체들은 각자가 지닌 조건에 따라
@@ -53,7 +53,7 @@ var q10004 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230906/go1/kor_m
 나이기 때문이다. 회화를 통해 접하는 다양한 가능 세계와의
 만남은 우리를 현실 세계에 더 가까이 다가가게 해 준다.
 `
-var q10005 = ` <a href="https://wdown.ebsi.co.kr/W61001/01exam/20230906/go1/kor_mun_95E6MNHQ.pdf">해당모의고사바로가기</a><br>
+var q10005 = ` <a href="https://wdown.ebsi.co.kr/W61001/01exam/20230906/go1/kor_mun_95E6MNHQ.pdf">해당모의고사다운로드</a><br>
 회화는 캔버스 위에 물감으로 색과 형태를 드러낸 가시적
 존재지만, 회화의 의미가 창작자의 주관이나 감상자의 주관
 에 따라 다양하게 형성된다는 점에서 비가시적 존재이기도
@@ -88,7 +88,7 @@ var q10005 = ` <a href="https://wdown.ebsi.co.kr/W61001/01exam/20230906/go1/kor_
 경험이 일상적 현실로까지 확장되어야 한다고 보았다.
 `
 
-var q10008 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230906/go1/kor_mun_95E6MNHQ.pdf">해당모의고사바로가기</a><br>
+var q10008 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230906/go1/kor_mun_95E6MNHQ.pdf">해당모의고사다운로드</a><br>
 매매 계약, 유언 등과 같은 법률행위가 법률효과를 발생시
 키려면 성립요건과 효력요건을 갖추어야 한다. 성립요건은
 법률행위가 성립되기 위한 요건으로, 성립요건을 갖추지 못
@@ -137,7 +137,7 @@ var q10008 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230906/go1/kor_m
 흘러도 그대로 유지되지만, 부당이득의 반환청구권은 소멸시
 효가 있으므로 영구적으로 주장할 수 있는 것은 아니다
 `
-var q10009 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230906/go1/kor_mun_95E6MNHQ.pdf">해당모의고사바로가기</a><br>
+var q10009 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230906/go1/kor_mun_95E6MNHQ.pdf">해당모의고사다운로드</a><br>
 <img src="img/g1/9.png"><br>
 디지털 이미지 워터마킹은 디지털 이미지에 저작권자나 배
 급자의 서명, 마크 등의 특정 정보를 다른 사람들이 인식하
@@ -213,7 +213,7 @@ LSB 치환 방법에 비해 워터마크가 상대적으로 쉽게 제거되
 달라질 수 있다.<br><br> * 픽셀 : 작은 점의 행과 열로 이루어져 있는 화면의 작은 점 각각을 이르는 말.<br> * 비트 : 2진 기수법 표기의 기본 단위. 2진 기수법에서는 모든 수를 0과 1로만
 표기하는데 이 0 또는 1이 각각 하나의 비트가 된다. 
 `
-var q10012 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230601/go1/kor_mun_M4SXZ2R4.pdf">해당모의고사바로가기</a><br>
+var q10012 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230601/go1/kor_mun_M4SXZ2R4.pdf">해당모의고사다운로드</a><br>
 상담 이론이자 상담 기법인 ‘현실요법’에서는 인간의 다섯 가
 지 기본 욕구를 제시하고 있다. 이 이론에서는 개인의 모든 행동
 은 기본 욕구를 충족시키기 위해서 그 자신이 선택하는 것이라 
@@ -255,7 +255,7 @@ var q10012 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230601/go1/kor_m
 요법은 상담 분야에서 호응을 얻어 심리 상담에 널리 ⓔ활용되
 고 있다.<br> * 내담자 : 상담실 따위에 자발적으로 찾아와서 이야기하는 사람.
 `
-var q10013 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230601/go1/kor_mun_M4SXZ2R4.pdf">해당모의고사바로가기</a><br>
+var q10013 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230601/go1/kor_mun_M4SXZ2R4.pdf">해당모의고사다운로드</a><br>
 <img src="img/g1/13.png"><br>
 <img src="img/g1/13-1.png"><br>
 물이 담긴 욕조의 마개를 빼면 물이 배수구 주변에서 회전하
@@ -305,7 +305,7 @@ var q10013 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230601/go1/kor_m
 내통에서 혼합물이 없는 공기로 흐르게 되어 반시계 방향으로 
 돌며 배기된다.
 `
-var q10019 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230601/go1/kor_mun_M4SXZ2R4.pdf">해당모의고사바로가기</a><br>
+var q10019 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230601/go1/kor_mun_M4SXZ2R4.pdf">해당모의고사다운로드</a><br>
 <img src="img/g1/19.png"><br>
 <img src="img/g1/19-1.png"><br>
 어떤 안건을 대하는 집단 구성원들의 생각은 각기 다르므로, 상이한 생각들을 집단적 합의에 이르게 하는 의사 결정 과정이 
@@ -395,7 +395,7 @@ var q10019 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230601/go1/kor_m
 </tr>
 </table>
 `
-var q10024 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230323/go1/kor_mun_924AG6DU_1.pdf">해당모의고사바로가기</a><br>
+var q10024 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230323/go1/kor_mun_924AG6DU_1.pdf">해당모의고사다운로드</a><br>
 경기가 침체되어 가계의 소비가 줄어들면 시중의 제품이 팔
 리지 않아 기업은 생산 규모를 축소하게 된다. 그 결과 실업률
 이 증가하고 가계의 수입이 감소하면서 소비는 더욱 위축된다. 이와 같은 악순환으로 경기 침체가 심화되면 국가는 이에서 
@@ -442,7 +442,7 @@ var q10024 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230323/go1/kor_m
 이러한 유동성 함정을 통해 통화 정책의 한계를 설명하면서, 정부가 재정 지출을 확대하여 소비와 투자를 유도하는 정책을 
 시행하는 것이 중요하다고 역설하였다
 `
-var q10027 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230323/go1/kor_mun_924AG6DU_1.pdf">해당모의고사바로가기</a><br>
+var q10027 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230323/go1/kor_mun_924AG6DU_1.pdf">해당모의고사다운로드</a><br>
 <img src="img/g1/27.png"><br>
 19세기에 분트는 인간의 정신세계가 의식으로 이루어져 있
 다고 보고, 실험을 통해 인간의 정신 현상과 행동을 설명하는 
@@ -485,7 +485,7 @@ var q10027 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230323/go1/kor_m
 이트의 이론은 기존의 이론에서 ⓒ 간과한 무의식에 대한 탐구
 를 통해 인간 이해에 대한 지평을 넓혔다는 평을 받고 있다. 
 `
-var q10028 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230323/go1/kor_mun_924AG6DU_1.pdf">해당모의고사바로가기</a><br>
+var q10028 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230323/go1/kor_mun_924AG6DU_1.pdf">해당모의고사다운로드</a><br>
 <img src="img/g1/28.png"><br>
 융은 프로이트의 정신분석이론에 반기를 들고, 분석심리학
 을 주창하였다. 무의식을 단지 의식에서 수용할 수 없는 원초
@@ -522,7 +522,7 @@ var q10028 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230323/go1/kor_m
 정에서 개인은 내면의 성숙을 이루며 자신의 정체성을 찾게 
 된다.
 `
-var q10030 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230323/go1/kor_mun_924AG6DU_1.pdf">해당모의고사바로가기</a><br>
+var q10030 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230323/go1/kor_mun_924AG6DU_1.pdf">해당모의고사다운로드</a><br>
 <img src="img/g1/30.png"><br>
 <img src="img/g1/30-1.png"><br>
 맑고 화창한 날 밖에서 스마트폰 화면이 잘 보이지 않았던 
@@ -585,7 +585,7 @@ var q10030 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230323/go1/kor_m
 `
 // var q20032 = `<a href="">해당모의고사바로가기</a><br><img src="img/g2/.png"><br>`
 
-var q20001 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230906/go2/kor_mun_P5SP1P3D.pdf">해당모의고사바로가기</a><br>
+var q20001 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230906/go2/kor_mun_P5SP1P3D.pdf">해당모의고사다운로드</a><br>
 <img src="img/g2/1.png"><br>
 미국의 헌법학자 제롬 배런은 1967년 언론 매체 접근 · 이
 용권을 최초로 주장하였다. 언론 매체 접근 · 이용권이란 국민
@@ -622,7 +622,7 @@ var q20001 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230906/go2/kor_m
 하여 국민의 언론 매체 접근 · 이용권을 보호하고 있다. 
 
 `
-var q20002 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230906/go2/kor_mun_P5SP1P3D.pdf">해당모의고사바로가기</a><br>
+var q20002 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230906/go2/kor_mun_P5SP1P3D.pdf">해당모의고사다운로드</a><br>
 <img src="img/g2/2.png"><br>
 언론 보도에 의해 명예나 권리를 침해받은 때에는 어떻게 
 해야 할까? 명예 훼손죄로 고소할 수도 있지만, 판결이 나오
@@ -668,7 +668,7 @@ var q20002 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230906/go2/kor_m
 
 
 `
-var q20003 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230906/go2/kor_mun_P5SP1P3D.pdf">해당모의고사바로가기</a><br>
+var q20003 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230906/go2/kor_mun_P5SP1P3D.pdf">해당모의고사다운로드</a><br>
 <img src="img/g2/3.png"><br>
 <img src="img/g2/3-1.png"><br>
 우리는 냄새를 어떻게 인식할까? 냄새의 원인이 되는 기체 
@@ -731,7 +731,7 @@ var q20003 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230906/go2/kor_m
 여 냄새를 인식하게 된다.
 
 `
-var q20004 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230906/go2/kor_mun_P5SP1P3D.pdf">해당모의고사바로가기</a><br>
+var q20004 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230906/go2/kor_mun_P5SP1P3D.pdf">해당모의고사다운로드</a><br>
 <img src="img/g2/4.png"><br>
 다산 정약용이 생각하기에 당대 사람들이 인정했던 최고의 
 진리는 유가의 경전이다. 다산은 유가의 경전을 철저하게 연
@@ -798,7 +798,7 @@ var q20004 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230906/go2/kor_m
 동 세계인 것이다
 
 `
-var q20005 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230601/go2/kor_mun_J9497Q75.pdf">해당모의고사바로가기</a><br>
+var q20005 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230601/go2/kor_mun_J9497Q75.pdf">해당모의고사다운로드</a><br>
 <img src="img/g2/5.png"><br>
 <img src="img/g2/5-1.png"><br>
 소크라테스 이후의 전통 형이상학에서는 현실 세계를 불완전
@@ -888,7 +888,7 @@ DNA 프로필이 20개 좌위에서 모두 동일하다면, 비교 샘플이
 것이다. * 염색대 : 염색체를 염색할 때 발생하는 띠 모양.
 
 `
-var q20007 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230601/go2/kor_mun_J9497Q75.pdf">해당모의고사바로가기</a><br>
+var q20007 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230601/go2/kor_mun_J9497Q75.pdf">해당모의고사다운로드</a><br>
 <img src="img/g2/7.png"><br>
 ㉠ ‘완전경쟁시장’은 많은 수의 수요자와 공급자 사이에 동질
 적인 상품이 거래되는 시장으로, 다른 기업의 시장 진입을 막는 
@@ -927,7 +927,7 @@ var q20007 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230601/go2/kor_m
 비효율성을 유발할 수 있다.
 
 `
-var q20008 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230601/go2/kor_mun_J9497Q75.pdf">해당모의고사바로가기</a><br>
+var q20008 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230601/go2/kor_mun_J9497Q75.pdf">해당모의고사다운로드</a><br>
 <img src="img/g2/8.png"><br>
 공정거래법이라고도 불리는 ‘독점규제 및 공정거래에 관한 법
 률’에서는 사업자의 독과점 자체를 금지하지는 않으나, 시장 지
@@ -963,7 +963,7 @@ var q20008 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230601/go2/kor_m
 
 
 `
-var q20009 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230323/go2/kor_mun_46J3446R.pdf">해당모의고사바로가기</a><br>
+var q20009 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230323/go2/kor_mun_46J3446R.pdf">해당모의고사다운로드</a><br>
 <img src="img/g2/9.png"><br>
 세포핵 속 DNA에 저장된 생물체의 유전 정보는 mRNA로 
 전사되어 세포질로 내보내진 후 리보솜을 통해 단백질로 합성
@@ -1017,7 +1017,7 @@ mRNA로 바꾼 뒤 숙주 세포가 스스로 바이러스 단백질을 합
 7이며, 산성 용액에서는 7보다 낮다.
 
 `
-var q20010 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230323/go2/kor_mun_46J3446R.pdf">해당모의고사바로가기</a><br>
+var q20010 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230323/go2/kor_mun_46J3446R.pdf">해당모의고사다운로드</a><br>
 <img src="img/g2/10.png"><br>
 주택 임대차는 임차인이 주택의 소유자인 임대인에게 보증
 금을 지급하고 합의한 기간 동안 목적물인 주택을 사용한 후, 기간이 만료되면 보증금을 반환받는 계약이다. 임대차를 체결
@@ -1077,7 +1077,7 @@ var q20010 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230323/go2/kor_m
 때문이다.
 
 `
-var q20011 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230323/go2/kor_mun_46J3446R.pdf">해당모의고사바로가기</a><br>
+var q20011 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230323/go2/kor_mun_46J3446R.pdf">해당모의고사다운로드</a><br>
 <img src="img/g2/11.png"><br>
 출퇴근에 대한 관념은 근대 이후에 형성되었다. 집과 일터의 
 경계가 뚜렷하지 않았던 전근대 사회와 달리 19세기 이후의 
@@ -1139,7 +1139,7 @@ var q20011 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230323/go2/kor_m
 `
 // var q30032 = `<a href="">해당모의고사바로가기</a><br><img src="img/g3/.png"><br>`
 
-var q30001 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230906/go3/korB_mun_92KUL83H.pdf">해당모의고사바로가기</a><br>
+var q30001 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230906/go3/korB_mun_92KUL83H.pdf">해당모의고사다운로드</a><br>
 <img src="img/g3/1.png"><br>
 흔히 읽기는 듣기․말하기와 달리 영․유아가 글자를 깨치고 
 나서야 시작된다고 생각한다. 그러나 대부분의 읽기 발달 연구
@@ -1173,7 +1173,7 @@ var q30001 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230906/go3/korB_
 경험은 이후의 단계에 중요한 영향을 미친다.
 
 `
-var q30002 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230906/go3/korB_mun_92KUL83H.pdf">해당모의고사바로가기</a><br>
+var q30002 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230906/go3/korB_mun_92KUL83H.pdf">해당모의고사다운로드</a><br>
 <img src="img/g3/2.png"><br>
 교통 이용 내역과 같은 기록은 개인의 데이터이며, 그 개인이
 ‘정보 주체’이다. 데이터는 물리적 형체가 없고, 복제와 재사용이
@@ -1222,7 +1222,7 @@ var q30002 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230906/go3/korB_
 시장 진입이 어려워져 독점화가 강화될 수 있다.
 
 `
-var q30003 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230906/go3/korB_mun_92KUL83H.pdf">해당모의고사바로가기</a><br>
+var q30003 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230906/go3/korB_mun_92KUL83H.pdf">해당모의고사다운로드</a><br>
 <img src="img/g3/3.png"><br>
 저울은 흔히 지렛대의 원리를 이용하거나 전기 저항 변화를 
 측정하여 질량을 잰다. 그렇다면 초정밀 저울은 기체 분자나 
@@ -1270,7 +1270,7 @@ DNA와 같은 미세 물질의 질량을 어떻게 잴까? 이에 답하기
 
 
 `
-var q30004 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230906/go3/korB_mun_92KUL83H.pdf">해당모의고사바로가기</a><br>
+var q30004 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230906/go3/korB_mun_92KUL83H.pdf">해당모의고사다운로드</a><br>
 <img src="img/g3/4_5.png"><br>
 조선 왕조의 기본 법전인 󰡔경국대전󰡕에 규정된 신분제는 신분을
 양인과 천인으로 나눈 양천제이다. 양인은 과거에 응시할 수 
@@ -1310,7 +1310,7 @@ var q30004 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230906/go3/korB_
 * 직역 : 신분에 따라 정해진 의무로서의 역할.
 
 `
-var q30005 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230906/go3/korB_mun_92KUL83H.pdf">해당모의고사바로가기</a><br>
+var q30005 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230906/go3/korB_mun_92KUL83H.pdf">해당모의고사다운로드</a><br>
 <img src="img/g3/5.png"><br>
 <img src="img/g3/4_5.png"><br>
 󰡔경국대전󰡕 체제에서 양인은 관료가 될 수 있다는 점에서 능력
@@ -1353,7 +1353,7 @@ var q30005 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230906/go3/korB_
 재구성을 통해 도덕 국가 체제를 추구했다.
 
 `
-var q30006 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230711/go3/korB_mun_8K4766Q2.pdf">해당모의고사바로가기</a><br>
+var q30006 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230711/go3/korB_mun_8K4766Q2.pdf">해당모의고사다운로드</a><br>
 <img src="img/g3/6.png"><br>
 <img src="img/g3/6-1.png"><br>
 글을 쓰는 과정에서 필자는 글의 내용을 상세하게 기술하기
@@ -1383,7 +1383,7 @@ var q30006 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230711/go3/korB_
 점검해 가며 정확한 추론을 할 필요가 있다.
 
 `
-var q30007 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230711/go3/korB_mun_8K4766Q2.pdf">해당모의고사바로가기</a><br>
+var q30007 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230711/go3/korB_mun_8K4766Q2.pdf">해당모의고사다운로드</a><br>
 <img src="img/g3/7.png"><br>
 노자는 도(道)란 개체들 사이의 조화로운 관계 맺음을 가능
 하게 하는 최고의 원리로, 개체들 이전에 도(道)가 미리 존재
@@ -1421,7 +1421,7 @@ var q30007 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230711/go3/korB_
 주는 군주를 만나지 못하면 등용될 수 없다고 생각한 것이다. 
 
 `
-var q30008 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230711/go3/korB_mun_8K4766Q2.pdf">해당모의고사바로가기</a><br>
+var q30008 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230711/go3/korB_mun_8K4766Q2.pdf">해당모의고사다운로드</a><br>
 <img src="img/g3/7_8.png"><br>
 플라톤은 사물보다 사물의 의미가 미리 존재한다고 보았다. 그래서 그는 사물에는 그것을 만든 ‘제작자’가 부여한 ‘필연적 
 의미’가 있을 수밖에 없다고 보았기 때문에 우리가 사는 세계 
@@ -1465,7 +1465,7 @@ var q30008 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230711/go3/korB_
 는 점을 시사했다는 점에서 의의가 있다.
 
 `
-var q30009 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230711/go3/korB_mun_8K4766Q2.pdf">해당모의고사바로가기</a><br>
+var q30009 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230711/go3/korB_mun_8K4766Q2.pdf">해당모의고사다운로드</a><br>
 <img src="img/g3/9.png"><br>
 법은 가능한 한 많은 구체적인 사안들에 적용될 수 있도록 
 일반적 ․ 추상적인 규범 명제로 기술되어 있다. 따라서 법을 구
@@ -1539,7 +1539,7 @@ var q30009 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230711/go3/korB_
 것이 필요하다.
 
 `
-var q30010 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230711/go3/korB_mun_8K4766Q2.pdf">해당모의고사바로가기</a><br>
+var q30010 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230711/go3/korB_mun_8K4766Q2.pdf">해당모의고사다운로드</a><br>
 <img src="img/g3/10.png"><br>
 
 집중 호우나 우박, 폭설 등과 같은 기상 현상은 재해로 이어
@@ -1611,7 +1611,7 @@ var q30010 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230711/go3/korB_
 나타나기도 한다.
 
 `
-var q30011 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230601/go3/korB_mun_Y743R9KC.pdf">해당모의고사바로가기</a><br>
+var q30011 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230601/go3/korB_mun_Y743R9KC.pdf">해당모의고사다운로드</a><br>
 <img src="img/g3/11.png"><br>
 <img src="img/g3/11-1.png"><br>
 선생님의 권유나 친구의 추천, 자기 계발 등 우리가 독서를 
@@ -1647,7 +1647,7 @@ var q30011 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230601/go3/korB_
 우선 독서 행위를 시작하는 것과, 성공적인 독서 경험을 통해 
 독서 행위를 지속하는 것이 중요하다.
 `
-var q30012 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230601/go3/korB_mun_Y743R9KC.pdf">해당모의고사바로가기</a><br>
+var q30012 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230601/go3/korB_mun_Y743R9KC.pdf">해당모의고사다운로드</a><br>
 <img src="img/g3/12.png"><br>
 공포 소구는 그 메시지에 담긴 권고를 따르지 않을 때의 
 해로운 결과를 강조하여 수용자를 설득하는 것으로, 1950년대 
@@ -1688,7 +1688,7 @@ var q30012 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230601/go3/korB_
 연구의 중요한 디딤돌이 되었다.
 
 `
-var q30013 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230601/go3/korB_mun_Y743R9KC.pdf">해당모의고사바로가기</a><br>
+var q30013 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230601/go3/korB_mun_Y743R9KC.pdf">해당모의고사다운로드</a><br>
 <img src="img/g3/13.png"><br>
 <img src="img/g3/13-1.png"><br>
 분자들이 만나 화학 반응을 진행하는 데 필요한 최소한의 
@@ -1732,7 +1732,7 @@ var q30013 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230601/go3/korB_
 지지체를 포함하지 않기도 한다.
 
 `
-var q30014 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230601/go3/korB_mun_Y743R9KC.pdf">해당모의고사바로가기</a><br>
+var q30014 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230601/go3/korB_mun_Y743R9KC.pdf">해당모의고사다운로드</a><br>
 <img src="img/g3/14.png"><br>
 <img src="img/g3/14_15.png"><br>
 심리 철학에서 동일론은 의식이 뇌의 물질적 상태와 동일하
@@ -1777,7 +1777,7 @@ var q30014 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230601/go3/korB_
 문제를 몸 안으로 한정하지 않고 바깥으로까지 넓혀 설명한다는 
 의의를 지닌다.
 `
-var q30015 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230601/go3/korB_mun_Y743R9KC.pdf">해당모의고사바로가기</a><br>
+var q30015 = `<a href="https://wdown.ebsi.co.kr/W61001/01exam/20230601/go3/korB_mun_Y743R9KC.pdf">해당모의고사다운로드</a><br>
 <img src="img/g3/15.png"><br>
 <img src="img/g3/14_15.png"><br>
 일반적으로 ‘지각’이란 몸의 감각 기관을 통해 사물에 대해 
